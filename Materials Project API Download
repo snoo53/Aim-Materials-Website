@@ -1,0 +1,39 @@
+import json
+from mp_api.client import MPRester
+
+radioactive_elements = ["Tc", "Pm", "Po", "Rn", "Fr", "Ra", "U", "Np", "Pu", "Am", "Cm", "Bk", "Cf", "Es"]
+
+with MPRester(MP_API_KEY, monty_decode=False, use_document_model=False) as mpr:
+    # Fetch summary dataset with specified criteria
+    summary_dataset = mpr.materials.summary.search(
+        theoretical=False,
+        k_vrh=[0, 1000], 
+        k_reuss=[0, 1000], 
+        k_voigt=[0, 1000], 
+        g_vrh=[0, 1000], 
+        g_reuss=[0, 1000], 
+        g_voigt=[0, 1000], 
+        exclude_elements=radioactive_elements
+    )
+    
+    # Sort summary dataset and extract material_ids
+    summary_dataset = sorted(summary_dataset, key=lambda x: x['material_id'])
+    material_ids = [material['material_id'] for material in summary_dataset]
+    
+    # Fetch elasticity dataset based on material_ids in summary dataset
+    elasticity_dataset = mpr.materials.elasticity.search(material_ids=material_ids)
+    
+    # Filter elasticity dataset to retain only entries that match material_ids in summary dataset
+    elasticity_dataset = [material for material in elasticity_dataset 
+                          if material['material_id'] in material_ids and not material.get('deprecated', False)]
+    elasticity_dataset = sorted(elasticity_dataset, key=lambda x: x['material_id'])
+
+    valid_material_ids = {material['material_id'] for material in elasticity_dataset}
+    summary_dataset = [material for material in summary_dataset if material['material_id'] in valid_material_ids]
+
+    # Save datasets to JSON files
+    with open("data//mp_summary_data.json", "w") as file:
+        json.dump(summary_dataset, file, indent=4)
+    
+    with open("data//mp_elasticity_data.json", "w") as file:
+        json.dump(elasticity_dataset, file, indent=4)
