@@ -260,7 +260,6 @@
     "universal_anisotropy": 2.279601377516782,
     "volume": 157.10627320110484,
     "summary": {
-      "bulk_modulus": 111.92673928306957,
       "database_IDs": {
         "aim_materials": [
           "aim-2el-gen_00007"
@@ -274,14 +273,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.781574+00:00",
-      "property_name": "summary",
-      "shear_modulus": 53.580582198364326,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -753,7 +746,6 @@
     "universal_anisotropy": 2.2075159458186366,
     "volume": 204.64214395605083,
     "summary": {
-      "bulk_modulus": 108.11714331340455,
       "database_IDs": {
         "aim_materials": [
           "aim-2el-gen_00016"
@@ -767,14 +759,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.784574+00:00",
-      "property_name": "summary",
-      "shear_modulus": 55.352383818563595,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -1246,7 +1232,6 @@
     "universal_anisotropy": 2.333322079147184,
     "volume": 129.63842578162485,
     "summary": {
-      "bulk_modulus": 105.900992446493,
       "database_IDs": {
         "aim_materials": [
           "aim-2el-gen_00075"
@@ -1260,14 +1245,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.786573+00:00",
-      "property_name": "summary",
-      "shear_modulus": 53.265053377918306,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -1739,7 +1718,6 @@
     "universal_anisotropy": 0.4075987322269867,
     "volume": 145.62672652198296,
     "summary": {
-      "bulk_modulus": 193.24284061847567,
       "database_IDs": {
         "aim_materials": [
           "aim-2el-gen_00043"
@@ -1753,14 +1731,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.789578+00:00",
-      "property_name": "summary",
-      "shear_modulus": 109.05886090981895,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -2392,7 +2364,6 @@
     "universal_anisotropy": 0.5374871925852016,
     "volume": 1090.6583727729058,
     "summary": {
-      "bulk_modulus": 121.26095341515773,
       "database_IDs": {
         "aim_materials": [
           "aim-2el-gen_00001"
@@ -2406,14 +2377,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.793581+00:00",
-      "property_name": "summary",
-      "shear_modulus": 85.06109122513206,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -2905,7 +2870,6 @@
     "universal_anisotropy": 2.197678548747053,
     "volume": 326.1276990217751,
     "summary": {
-      "bulk_modulus": 115.49432747756501,
       "database_IDs": {
         "aim_materials": [
           "aim-2el-gen_00015"
@@ -2919,14 +2883,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.796084+00:00",
-      "property_name": "summary",
-      "shear_modulus": 54.774860102722386,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -3558,7 +3516,6 @@
     "universal_anisotropy": 1.6240417299269465,
     "volume": 935.8663474188871,
     "summary": {
-      "bulk_modulus": 130.15638171392348,
       "database_IDs": {
         "aim_materials": [
           "aim-2el-gen_00070"
@@ -3572,14 +3529,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.799588+00:00",
-      "property_name": "summary",
-      "shear_modulus": 66.81182165112742,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -4051,7 +4002,6 @@
     "universal_anisotropy": 2.4709294321349358,
     "volume": 560.9228071484026,
     "summary": {
-      "bulk_modulus": 97.63925342005822,
       "database_IDs": {
         "aim_materials": [
           "aim-2el-gen_00087"
@@ -4065,14 +4015,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.801465+00:00",
-      "property_name": "summary",
-      "shear_modulus": 51.86636413761603,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -4544,7 +4488,6 @@
     "universal_anisotropy": 2.3453281043407763,
     "volume": 231.25673904565707,
     "summary": {
-      "bulk_modulus": 104.7659114007134,
       "database_IDs": {
         "aim_materials": [
           "aim-2el-gen_00064"
@@ -4558,14 +4501,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.804465+00:00",
-      "property_name": "summary",
-      "shear_modulus": 53.15084769401359,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -5037,7 +4974,6 @@
     "universal_anisotropy": 2.493403415852942,
     "volume": 512.7341455968921,
     "summary": {
-      "bulk_modulus": 96.79394917477904,
       "database_IDs": {
         "aim_materials": [
           "aim-2el-gen_00090"
@@ -5051,14 +4987,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.806464+00:00",
-      "property_name": "summary",
-      "shear_modulus": 51.6051100364367,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -5530,7 +5460,6 @@
     "universal_anisotropy": 2.3458035665268735,
     "volume": 412.3680324243444,
     "summary": {
-      "bulk_modulus": 103.90496542825488,
       "database_IDs": {
         "aim_materials": [
           "aim-2el-gen_00048"
@@ -5544,14 +5473,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.808464+00:00",
-      "property_name": "summary",
-      "shear_modulus": 53.25990985300767,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -6023,7 +5946,6 @@
     "universal_anisotropy": 0.20027595255395614,
     "volume": 345.22646873532386,
     "summary": {
-      "bulk_modulus": 199.39411586818767,
       "database_IDs": {
         "aim_materials": [
           "aim-2el-gen_00073"
@@ -6037,14 +5959,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.811563+00:00",
-      "property_name": "summary",
-      "shear_modulus": 161.61902354584498,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -6516,7 +6432,6 @@
     "universal_anisotropy": 2.3746554713366663,
     "volume": 325.6716342057339,
     "summary": {
-      "bulk_modulus": 103.35982637339505,
       "database_IDs": {
         "aim_materials": [
           "aim-2el-gen_00010"
@@ -6530,14 +6445,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.814066+00:00",
-      "property_name": "summary",
-      "shear_modulus": 52.794991576876285,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -7009,7 +6918,6 @@
     "universal_anisotropy": 0.9523701943207401,
     "volume": 166.90632592993637,
     "summary": {
-      "bulk_modulus": 322.62489464624855,
       "database_IDs": {
         "aim_materials": [
           "aim-2el-gen_00061"
@@ -7023,14 +6931,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.816068+00:00",
-      "property_name": "summary",
-      "shear_modulus": 177.8559868828583,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -7662,7 +7564,6 @@
     "universal_anisotropy": 0.8136307748570202,
     "volume": 330.34352762214064,
     "summary": {
-      "bulk_modulus": 220.73337903626444,
       "database_IDs": {
         "aim_materials": [
           "aim-2el-gen_00111"
@@ -7676,14 +7577,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.820448+00:00",
-      "property_name": "summary",
-      "shear_modulus": 109.13918418858023,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -8238,7 +8133,6 @@
     "universal_anisotropy": 2.9930576244549822,
     "volume": 299.4583311139409,
     "summary": {
-      "bulk_modulus": 77.17543086505455,
       "database_IDs": {
         "aim_materials": [
           "aim-3el-gen_00029"
@@ -8252,14 +8146,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.824480+00:00",
-      "property_name": "summary",
-      "shear_modulus": 46.888355614293275,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -8814,7 +8702,6 @@
     "universal_anisotropy": 3.1617188175592084,
     "volume": 592.2900753115882,
     "summary": {
-      "bulk_modulus": 73.65637600112694,
       "database_IDs": {
         "aim_materials": [
           "aim-3el-gen_00027"
@@ -8828,14 +8715,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.827481+00:00",
-      "property_name": "summary",
-      "shear_modulus": 45.54339579109401,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -9390,7 +9271,6 @@
     "universal_anisotropy": 3.265953502523276,
     "volume": 186.93065077004076,
     "summary": {
-      "bulk_modulus": 72.72494186082994,
       "database_IDs": {
         "aim_materials": [
           "aim-3el-gen_00032"
@@ -9404,14 +9284,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.829506+00:00",
-      "property_name": "summary",
-      "shear_modulus": 44.615728141778504,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -9966,7 +9840,6 @@
     "universal_anisotropy": 3.162276366806589,
     "volume": 552.9841590871171,
     "summary": {
-      "bulk_modulus": 73.576288394541,
       "database_IDs": {
         "aim_materials": [
           "aim-3el-gen_00014"
@@ -9980,14 +9853,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.833013+00:00",
-      "property_name": "summary",
-      "shear_modulus": 45.55112695209783,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -10542,7 +10409,6 @@
     "universal_anisotropy": 3.08717609120645,
     "volume": 590.23527721112,
     "summary": {
-      "bulk_modulus": 75.7682451984948,
       "database_IDs": {
         "aim_materials": [
           "aim-3el-gen_00079"
@@ -10556,14 +10422,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.836013+00:00",
-      "property_name": "summary",
-      "shear_modulus": 46.10050434567695,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -11118,7 +10978,6 @@
     "universal_anisotropy": 3.2136057298986156,
     "volume": 521.1590563166187,
     "summary": {
-      "bulk_modulus": 72.70223732172045,
       "database_IDs": {
         "aim_materials": [
           "aim-3el-gen_00062"
@@ -11132,14 +10991,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.838515+00:00",
-      "property_name": "summary",
-      "shear_modulus": 45.12964787968812,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -11694,7 +11547,6 @@
     "universal_anisotropy": 3.258329182598688,
     "volume": 368.8956512524167,
     "summary": {
-      "bulk_modulus": 72.45662932505164,
       "database_IDs": {
         "aim_materials": [
           "aim-3el-gen_00042"
@@ -11708,14 +11560,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.841552+00:00",
-      "property_name": "summary",
-      "shear_modulus": 44.73938927655321,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -12270,7 +12116,6 @@
     "universal_anisotropy": 0.5368558233988399,
     "volume": 553.1331937027547,
     "summary": {
-      "bulk_modulus": 140.06077511414014,
       "database_IDs": {
         "aim_materials": [
           "aim-3el-gen_00038"
@@ -12284,14 +12129,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.844552+00:00",
-      "property_name": "summary",
-      "shear_modulus": 97.42735514242699,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -12846,7 +12685,6 @@
     "universal_anisotropy": 0.6532167936369788,
     "volume": 391.55579521310926,
     "summary": {
-      "bulk_modulus": 183.25676049410822,
       "database_IDs": {
         "aim_materials": [
           "aim-3el-gen_00022"
@@ -12860,14 +12698,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.847550+00:00",
-      "property_name": "summary",
-      "shear_modulus": 96.87559702369572,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -13422,7 +13254,6 @@
     "universal_anisotropy": 3.353119555163481,
     "volume": 584.1001621711981,
     "summary": {
-      "bulk_modulus": 71.18921469530629,
       "database_IDs": {
         "aim_materials": [
           "aim-3el-gen_00058"
@@ -13436,14 +13267,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.849733+00:00",
-      "property_name": "summary",
-      "shear_modulus": 43.97212062797382,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -13998,7 +13823,6 @@
     "universal_anisotropy": 0.5304201897646212,
     "volume": 587.2307003206746,
     "summary": {
-      "bulk_modulus": 195.98983830554667,
       "database_IDs": {
         "aim_materials": [
           "aim-3el-gen_00037"
@@ -14012,14 +13836,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.853239+00:00",
-      "property_name": "summary",
-      "shear_modulus": 134.55151543613817,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -14574,7 +14392,6 @@
     "universal_anisotropy": 3.5128239210487138,
     "volume": 462.73084502238515,
     "summary": {
-      "bulk_modulus": 68.35851762109412,
       "database_IDs": {
         "aim_materials": [
           "aim-3el-gen_00009"
@@ -14588,14 +14405,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.855242+00:00",
-      "property_name": "summary",
-      "shear_modulus": 42.85743261909528,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -15150,7 +14961,6 @@
     "universal_anisotropy": 0.6122033252437173,
     "volume": 368.37394384613515,
     "summary": {
-      "bulk_modulus": 131.8718703453946,
       "database_IDs": {
         "aim_materials": [
           "aim-3el-gen_00000"
@@ -15164,14 +14974,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.858745+00:00",
-      "property_name": "summary",
-      "shear_modulus": 76.02770568743276,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -15726,7 +15530,6 @@
     "universal_anisotropy": 3.5418218949198064,
     "volume": 427.1833640647845,
     "summary": {
-      "bulk_modulus": 68.14262839464381,
       "database_IDs": {
         "aim_materials": [
           "aim-3el-gen_00060"
@@ -15740,14 +15543,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.861262+00:00",
-      "property_name": "summary",
-      "shear_modulus": 42.63246250745708,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -16302,7 +16099,6 @@
     "universal_anisotropy": 0.7549671132409195,
     "volume": 468.4207603166005,
     "summary": {
-      "bulk_modulus": 161.30147043422758,
       "database_IDs": {
         "aim_materials": [
           "aim-3el-gen_00074"
@@ -16316,14 +16112,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.864261+00:00",
-      "property_name": "summary",
-      "shear_modulus": 83.82576953560142,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -16878,7 +16668,6 @@
     "universal_anisotropy": 3.3999650617174755,
     "volume": 336.9564448985922,
     "summary": {
-      "bulk_modulus": 70.36417943716869,
       "database_IDs": {
         "aim_materials": [
           "aim-3el-gen_00033"
@@ -16892,14 +16681,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.868270+00:00",
-      "property_name": "summary",
-      "shear_modulus": 43.59694905282085,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -17454,7 +17237,6 @@
     "universal_anisotropy": 3.424967525602362,
     "volume": 330.4858225936291,
     "summary": {
-      "bulk_modulus": 69.96782884289294,
       "database_IDs": {
         "aim_materials": [
           "aim-3el-gen_00054"
@@ -17468,14 +17250,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.870784+00:00",
-      "property_name": "summary",
-      "shear_modulus": 43.415742783178246,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -18030,7 +17806,6 @@
     "universal_anisotropy": 0.15012811632624334,
     "volume": 936.0194193756314,
     "summary": {
-      "bulk_modulus": 149.2993796294603,
       "database_IDs": {
         "aim_materials": [
           "aim-3el-gen_00044"
@@ -18044,14 +17819,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.873297+00:00",
-      "property_name": "summary",
-      "shear_modulus": 94.17962572648716,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -18529,7 +18298,6 @@
     "universal_anisotropy": 7.839730863193486,
     "volume": 199.7128471571747,
     "summary": {
-      "bulk_modulus": 43.02245171279901,
       "database_IDs": {
         "aim_materials": [
           "aim-4el-gen_00111"
@@ -18543,14 +18311,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.876297+00:00",
-      "property_name": "summary",
-      "shear_modulus": 27.69224429051326,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -19028,7 +18790,6 @@
     "universal_anisotropy": 7.973827267462259,
     "volume": 165.5327280803761,
     "summary": {
-      "bulk_modulus": 42.606415911035654,
       "database_IDs": {
         "aim_materials": [
           "aim-4el-gen_00095"
@@ -19042,14 +18803,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.879732+00:00",
-      "property_name": "summary",
-      "shear_modulus": 27.462293456525604,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -19527,7 +19282,6 @@
     "universal_anisotropy": 8.778541648967051,
     "volume": 214.85406339310367,
     "summary": {
-      "bulk_modulus": 40.358447184480305,
       "database_IDs": {
         "aim_materials": [
           "aim-4el-gen_00063"
@@ -19541,14 +19295,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.882174+00:00",
-      "property_name": "summary",
-      "shear_modulus": 26.251731972409026,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -20026,7 +19774,6 @@
     "universal_anisotropy": 8.77120452656617,
     "volume": 172.04578258134597,
     "summary": {
-      "bulk_modulus": 40.13285664900156,
       "database_IDs": {
         "aim_materials": [
           "aim-4el-gen_00011"
@@ -20040,14 +19787,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.884170+00:00",
-      "property_name": "summary",
-      "shear_modulus": 26.299307156778617,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -20525,7 +20266,6 @@
     "universal_anisotropy": 8.295106514211007,
     "volume": 206.02584268878783,
     "summary": {
-      "bulk_modulus": 41.277141898200696,
       "database_IDs": {
         "aim_materials": [
           "aim-4el-gen_00065"
@@ -20539,14 +20279,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.887171+00:00",
-      "property_name": "summary",
-      "shear_modulus": 27.000866103251436,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -21024,7 +20758,6 @@
     "universal_anisotropy": 8.248198478237505,
     "volume": 209.42135719421728,
     "summary": {
-      "bulk_modulus": 41.38559663210533,
       "database_IDs": {
         "aim_materials": [
           "aim-4el-gen_00046"
@@ -21038,14 +20771,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.890185+00:00",
-      "property_name": "summary",
-      "shear_modulus": 27.084342062827375,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -21523,7 +21250,6 @@
     "universal_anisotropy": 8.617297167511278,
     "volume": 182.72236615293437,
     "summary": {
-      "bulk_modulus": 40.35573817868391,
       "database_IDs": {
         "aim_materials": [
           "aim-4el-gen_00002"
@@ -21537,14 +21263,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.892195+00:00",
-      "property_name": "summary",
-      "shear_modulus": 26.533287943023858,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -22022,7 +21742,6 @@
     "universal_anisotropy": 8.847200889159407,
     "volume": 172.15593037456765,
     "summary": {
-      "bulk_modulus": 40.08055736125077,
       "database_IDs": {
         "aim_materials": [
           "aim-4el-gen_00012"
@@ -22036,14 +21755,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.895196+00:00",
-      "property_name": "summary",
-      "shear_modulus": 26.163889296532002,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -22521,7 +22234,6 @@
     "universal_anisotropy": 8.538105861832241,
     "volume": 355.77912629024667,
     "summary": {
-      "bulk_modulus": 40.591346481944115,
       "database_IDs": {
         "aim_materials": [
           "aim-4el-gen_00032"
@@ -22535,14 +22247,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.897195+00:00",
-      "property_name": "summary",
-      "shear_modulus": 26.649273841370988,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -23020,7 +22726,6 @@
     "universal_anisotropy": 8.602350613474538,
     "volume": 386.3942662612324,
     "summary": {
-      "bulk_modulus": 40.24006721402991,
       "database_IDs": {
         "aim_materials": [
           "aim-4el-gen_00106"
@@ -23034,14 +22739,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.900162+00:00",
-      "property_name": "summary",
-      "shear_modulus": 26.589937253153938,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -23519,7 +23218,6 @@
     "universal_anisotropy": 9.182130036404281,
     "volume": 214.41936936064593,
     "summary": {
-      "bulk_modulus": 39.1911387497241,
       "database_IDs": {
         "aim_materials": [
           "aim-4el-gen_00030"
@@ -23533,14 +23231,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.902218+00:00",
-      "property_name": "summary",
-      "shear_modulus": 25.73627347180148,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -24018,7 +23710,6 @@
     "universal_anisotropy": 8.708235077465487,
     "volume": 318.6536341659713,
     "summary": {
-      "bulk_modulus": 40.091516788499646,
       "database_IDs": {
         "aim_materials": [
           "aim-4el-gen_00038"
@@ -24032,14 +23723,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.905218+00:00",
-      "property_name": "summary",
-      "shear_modulus": 26.415949316810927,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -24517,7 +24202,6 @@
     "universal_anisotropy": 9.21895201324715,
     "volume": 464.96534159360067,
     "summary": {
-      "bulk_modulus": 38.765021148356844,
       "database_IDs": {
         "aim_materials": [
           "aim-4el-gen_00093"
@@ -24531,14 +24215,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.907219+00:00",
-      "property_name": "summary",
-      "shear_modulus": 25.754514381813763,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -25016,7 +24694,6 @@
     "universal_anisotropy": 8.942959944463277,
     "volume": 626.7161654779846,
     "summary": {
-      "bulk_modulus": 39.27112997882145,
       "database_IDs": {
         "aim_materials": [
           "aim-4el-gen_00067"
@@ -25030,14 +24707,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.910741+00:00",
-      "property_name": "summary",
-      "shear_modulus": 26.145343810590848,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -25515,7 +25186,6 @@
     "universal_anisotropy": 8.640705732173883,
     "volume": 387.2451372883946,
     "summary": {
-      "bulk_modulus": 40.10003556119808,
       "database_IDs": {
         "aim_materials": [
           "aim-4el-gen_00071"
@@ -25529,14 +25199,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.912741+00:00",
-      "property_name": "summary",
-      "shear_modulus": 26.54937887179486,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -26014,7 +25678,6 @@
     "universal_anisotropy": 9.217659600659491,
     "volume": 332.23157489079466,
     "summary": {
-      "bulk_modulus": 38.68320549405523,
       "database_IDs": {
         "aim_materials": [
           "aim-4el-gen_00075"
@@ -26028,14 +25691,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.915743+00:00",
-      "property_name": "summary",
-      "shear_modulus": 25.77422127769413,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -26513,7 +26170,6 @@
     "universal_anisotropy": 8.779777481719723,
     "volume": 365.6120491692798,
     "summary": {
-      "bulk_modulus": 39.67355082133356,
       "database_IDs": {
         "aim_materials": [
           "aim-4el-gen_00068"
@@ -26527,14 +26183,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.917742+00:00",
-      "property_name": "summary",
-      "shear_modulus": 26.365715666869807,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
@@ -27012,7 +26662,6 @@
     "universal_anisotropy": 8.502274198753424,
     "volume": 160.86410034301255,
     "summary": {
-      "bulk_modulus": 40.83438842757092,
       "database_IDs": {
         "aim_materials": [
           "aim-4el-gen_00001"
@@ -27026,14 +26675,8 @@
         "summary",
         "elasticity"
       ],
-      "last_updated": "2026-02-21T01:08:03.920736+00:00",
-      "property_name": "summary",
-      "shear_modulus": 26.68570601279174,
       "task_ids": [],
-      "theoretical": true,
-      "warnings": [
-        "quality_score=10.000000"
-      ]
+      "theoretical": true
     },
     "elasticity": {
       "bulk_modulus": {
